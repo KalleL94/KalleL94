@@ -11,7 +11,7 @@ I'm an aspireing backend-focused developer who loves building clean, efficient s
 
 ## 🌱 Currently Learning
 
-- Spanish 🇳🇮
+- Spanish
 - Improving frontend skills with **React** and **Tailwind CSS**
 - Building API integrations and authentication systems with OAuth
 <!--
