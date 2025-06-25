@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Kalle
 
-I'm an aspireing backend-focused developer who loves building clean, efficient systems — whether it's automating home services, building management tools, or connecting systems through APIs.
+I'm an aspirering backend-focused developer who loves building clean, efficient systems — whether it's automating home services, building management tools, or connecting systems through APIs.
 
 ## 💻 What I Do
 
